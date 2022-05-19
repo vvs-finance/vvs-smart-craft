@@ -1,0 +1,15 @@
+/node_modules/
+/build/
+
+node_modules
+
+#Buidler files
+cache
+artifacts
+coverage
+coverage.json
+.env
+.idea
+scripts/local
+
+deployment-records
